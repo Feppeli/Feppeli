@@ -8,3 +8,9 @@ I'm passionante about WEB and Mobile Develope, Always open to new chalenge and r
 "Se você pensa que pode ou pensa que não pode de qualquer maneira você está certo." (Henry Ford)👨‍🚀.
 -   📍  From PE living in Tamandaré.
 -  ⏳ Future Instructor of Programing.
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+<div>
