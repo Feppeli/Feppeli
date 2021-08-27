@@ -22,7 +22,7 @@ I'm passionante about WEB and Mobile Develope, Always open to new chalenge and r
 </div>
  
  ##
- 
+
 <div> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
