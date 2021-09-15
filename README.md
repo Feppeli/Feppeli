@@ -25,6 +25,6 @@ I'm passionante about WEB and Mobile Develope, Always open to new chalenge and r
 
 <div> 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Feppeli/blob/output/github-contribution-grid-snake.svg)
 
 </div>
