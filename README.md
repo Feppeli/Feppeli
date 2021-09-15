@@ -28,3 +28,9 @@ I'm passionante about WEB and Mobile Develope, Always open to new chalenge and r
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
