@@ -1,7 +1,7 @@
 # hey 🖖
 My name is Felipe Teixeira 👦< br >.
 
-I'm a science computer student.
+I'm a sComputer Science student.
 
 I'm passionante about WEB and Mobile Develope, Always open to new chalenge and ready to face changes.
 
