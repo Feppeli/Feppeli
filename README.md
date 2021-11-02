@@ -1,13 +1,9 @@
 # Aboute me 🖖
-My name is Felipe Teixeira 👦< br >.
-
-I'm a Computer Science student.
-
-I'm passionante about WEB and Mobile Develope, Always open to new chalenge and ready to face changes.
+Olá, sou Felipe Teixeira <br>
+Estudante de Ciência da computação. Atualmente focando em tecnologias Front-end.
+Posteriormente, iriei iniciar uma jornada Mobile que tambem me chama a atenção.
 
 "Se você pensa que pode ou pensa que não pode de qualquer maneira você está certo." (Henry Ford)👨‍🚀.
--   📍  From Brazil living in Tamandaré-PE.
--  ⏳ Future Instructor of Programing and Web/Mobile Developer.
 
  <div>
   <a href="https://github.com/Feppeli">
