@@ -1,5 +1,6 @@
 # Aboute me 🖖
 Sou desenvolvedor WEB focado em Javascript suas libs e frameworks.
+Atualmente residindo em Recife-PE mas com disponibilidade para mudanças!
 
 "Se você pensa que pode ou pensa que não pode de qualquer maneira você está certo." (Henry Ford)👨‍🚀.
 
