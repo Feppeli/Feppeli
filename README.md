@@ -1,7 +1,5 @@
 # Aboute me 🖖
-Olá, sou Felipe Teixeira <br>
-Estudante de Ciência da computação. Atualmente focando em tecnologias Front-end.
-Posteriormente, iriei iniciar uma jornada Mobile que tambem me chama a atenção.
+Sou desenvolvedor WEB focado em Javascript suas libs e frameworks.
 
 "Se você pensa que pode ou pensa que não pode de qualquer maneira você está certo." (Henry Ford)👨‍🚀.
 
@@ -23,11 +21,6 @@ Posteriormente, iriei iniciar uma jornada Mobile que tambem me chama a atenção
  
  ##
 
-<div> 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
