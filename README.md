@@ -15,7 +15,6 @@ Desenvolvedor focado em tecnologias web.
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center" height="30" width="40" src="https://www.flaticon.com/free-icon/ruby_919842?term=ruby&page=1&position=1&page=1&position=1&related_id=919842&origin=search" />
   <img align="right"  height="150" style="border-radius:50px;"
 </div>
  
