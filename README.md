@@ -1,4 +1,7 @@
-Desenvolvedor focado em tecnologias web.
+Desenvolvedor fullstack!
+
+Desenvolvimento de Software intensivo na Cubos Academy.
+Analise e desenvolvimento de sistemas na Estácio.
 
 "Se você pensa que pode ou pensa que não pode de qualquer maneira você está certo." (Henry Ford)👨‍🚀.
 
