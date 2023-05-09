@@ -1,6 +1,10 @@
 Desenvolvedor fullstack!
 
 Desenvolvimento de Software intensivo na Cubos Academy. <br>
+
+🧠Me chamo Felipe Teixeira tenho 20 anos, atualmente trabalhando com web designer e me especializando em desenvolvimento
+de software, Possuo conhecimento/Experiência em: Nodejs, Reactjs, HTML, CSS, Javascript, Python, SQL, NoSQL.
+
 "Se você pensa que pode ou pensa que não pode de qualquer maneira você está certo." (Henry Ford)👨‍🚀.
 
  <div>
