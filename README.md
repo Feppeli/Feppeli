@@ -1,8 +1,6 @@
 Desenvolvedor fullstack!
 
-Desenvolvimento de Software intensivo na Cubos Academy.
-Analise e desenvolvimento de sistemas na Estácio.
-
+Desenvolvimento de Software intensivo na Cubos Academy. 
 "Se você pensa que pode ou pensa que não pode de qualquer maneira você está certo." (Henry Ford)👨‍🚀.
 
  <div>
