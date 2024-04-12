@@ -4,10 +4,6 @@
 
 </div>
 
-##
-
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1012043502504386581/1225037386518630443/flor.png?ex=661fabf9&is=660d36f9&hm=dfd9ce91de4631ef0fb2ce337e1fca474ecf748cc79a87bb20e622ac2d451bb6&"  />
-
 **[Visite meu website](https://my-web-site-chi.vercel.app/) 🌺**
 
 </div>
@@ -43,16 +39,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
-  <img href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12"/>
   <img href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img width="12"/>
-  <img href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img width="12"/>
-  <img href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img width="12"/>
+  
 
   
 </div>
